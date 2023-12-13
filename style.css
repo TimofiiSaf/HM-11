@@ -6,4 +6,5 @@ img {
   border: dashed;
   border-color: red;
   background-color: green;
+  box-sizing: border-box;
 }
